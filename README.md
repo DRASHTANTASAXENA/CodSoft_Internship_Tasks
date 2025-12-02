@@ -8,8 +8,11 @@ This repository contains four modular machine learning projects developed for in
 
 # 🚀 Projects Overview
 | 🚢 **Titanic Survival Prediction** | Predicts passenger survival on the Titanic dataset. | Classification models, feature engineering, handling missing values, logistic regression, decision trees. |
+
 | 🎬 **Movie Rating Prediction** | Predicts user ratings for movies based on metadata and user behavior. | Regression modeling, feature encoding, train‑test split, evaluation metrics (RMSE, MAE). |
+
 | 💳 **Credit Card Fraud Detection** | Classifies transactions as fraudulent or legitimate. | Imbalanced dataset handling (SMOTE/undersampling), precision‑recall analysis, ROC‑AUC. |
+
 | 📈 **Sales Prediction** | Predicts product sales based on advertising spend and other features. | Linear regression, feature importance, residual analysis, visualization. |
 
 # 🛠️ Project Structure
