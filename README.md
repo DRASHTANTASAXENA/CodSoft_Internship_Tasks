@@ -15,7 +15,6 @@ This repository contains four modular machine learning projects developed for in
 # 🛠️ Project Structure
 
 ```
-
 ├── titanic_survival/
 │   ├── data/
 │   ├── preprocessing.py
@@ -90,6 +89,7 @@ python sales_prediction/main.py
 - **Sales Prediction:** R², Adjusted R², Residual plots  
 
 
+# 📌 Notes
 - Each project is modularized into **preprocessing, modeling, and evaluation scripts**.  
 - Code logic matches notebook workflows for transparency and reproducibility.  
 - Shared utilities are placed in the `common/` folder for consistency.  
